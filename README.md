@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<!--
-**a7medAlqal3awyi/a7medAlqal3awyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Almuni of <a href="http://amrita.edu">Amrita University 🎓</a> & SDE 1 at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
+</br>IOS & Flutter Developer | UI designer | Open Source enthusiast</a>
+</em></p>
 
-Here are some ideas to get you started:
+[![linkedin badge](https://img.shields.io/badge/linkedin-chromicle-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chromicle/)
+[![twitter badge](https://img.shields.io/badge/twitter-@chromicle_3-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/chromicle_3)
+[![blog badge](https://img.shields.io/badge/chromicle.github.io/blog-1f425f?style=flat-square)](https://chromicle.github.io/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :octocat: A little more about me...  
+
+```javascript
+const chromicle = {
+  code: [Dart, Java, Kotlin, Swift, Python, C, C++],
+  askMeAbout: ["UI designing", "Flutter", "IOS development", "Git", "Open-source"],
+  currentlyLearning: ["UI/UX design", "Flutter web", "React"],
+  whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
+  techCommunities: {
+                        mentor: ["amFOSS", "Codesis", "The dev byte"], 
+                        member: ["Nuclei", "Cometchat"]
+                      },
+   pronouns: "He | Him | His"
+}
+```
+
+😄 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> :) 
+
+![](https://komarev.com/ghpvc/?username=chromicle)

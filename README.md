@@ -1,19 +1,24 @@
 <h2> Hi, I'm Ahmed KHaled AlQalawyi! 👋</h2>
 
-- 🌱 I’m currently learning ...
-  <img height="180em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
 
-- 👯 I’m looking to collaborate on ...
-  
-- 🤔 I’m looking for help with ...
-  
-- 💬 Ask me about ...
-  
-- ⚡ Fun fact: ...
 
-- 📄 Documenting the entire journey.
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://a7medAlqal3awyi.io)
+
+
+<p
+🤓 Always learning new things.
+
+🤝 I’m looking to collaborate with other developers to build great stuff.
+
+💬 Ask me about Flutter, Dart, Firebase.
+
+📫 Feel free to reach me out  a7medalqalawyi@gmail.com
+
+⚡ Fun fact: ...
+
+📄 Documenting the entire journey.
  
-- 🫡 Deep Code Way.
+🫡 Deep Code Way.
 
   
 ### :octocat: A little more about me...  
@@ -27,13 +32,14 @@ const ahmed = {
 }
 ```
 
+# 💻 Tech Stack &Tools:
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,git,java,python,photoshop,xd,figma,vscode,androidstudio,git,github,postman,notion,googlecloud,mysql,sqlite,unity,discord&theme=dark" />
+  </a>
+ 
+</div>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![Firebase](	https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Google Meets](	https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ## 💌 Looking to Connect?
 

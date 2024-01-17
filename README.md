@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ahmed KHaled AlQalawyi! 👋</h2>
+<h2> Hi, I'm Ahmed Khaled AlQalawyi! 👋</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">

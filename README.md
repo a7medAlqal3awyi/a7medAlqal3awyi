@@ -40,6 +40,13 @@ const ahmed = {
  
 </div>
 
+## My Certifications :arrow_down:
+
+- [Flutter Clean Architecture](https://www.udemy.com/certificate/UC-02ad462a-507e-4e82-9172-fa8c480589ed/)
+- [Fundamentals of Agile Project Management](https://www.credly.com/badges/db13905c-33fc-4eed-8cef-c8b598de2c4f)
+- [Fundamentals of Waterfall Project Management](https://www.credly.com/badges/66e3b1f6-3904-4516-a0b8-43f2326f7064) 
+
+
 
 ## 💌 Looking to Connect?
 

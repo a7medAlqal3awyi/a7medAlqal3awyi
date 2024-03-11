@@ -66,6 +66,11 @@ const ahmed = {
 ## 📊 GitHub Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medAlqal3awyi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+ 
+<img align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api/?username=a7medAlqal3awyi&show_icons=true&locale=en&layout=compact&theme=radical"/>
+ 
+
 <br>
 
 

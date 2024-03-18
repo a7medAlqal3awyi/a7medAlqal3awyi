@@ -22,18 +22,21 @@
 📄 Documenting the entire journey.
 
 🫡 Deep Code Way.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-
-# 💻 Tech Stack &Tools:
-<div align="left">
+## 💻Tech Stack &Tools:
+<div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,git,java,python,photoshop,xd,figma,vscode,androidstudio,git,github,postman,googlecloud,mysql,sqlite,html,css,opencv,unity,discord&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,photoshop,xd,figma,vscode,androidstudio,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,postman,googlecloud,mysql,sqlite,html,css,opencv,unity,discord&theme=dark" />
   </a>
  
 </div>
   
 ## 💌 Connect with me:
-<p align="left">
+<p align="center">
 <a href = "https://a7medalqalawyi@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" /></a>
 <a href ="https://t.me/a7med_khaled_alqalawyi"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" /></a>
 <a href = "https://twitter.com/alkalawyi"><img src="https://img.shields.io/badge/X-000000?style=flat&&logoColor=white" width="50" height="50" /></a>
@@ -63,15 +66,37 @@ const ahmed = {
 
 
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ## 📊 GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medAlqal3awyi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
- 
-<img align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api/?username=a7medAlqal3awyi&show_icons=true&locale=en&layout=compact&theme=radical"/>
- 
+<p align="center">
+    <a href="https://github.com/a7medAlqal3awyi/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a7medAlqal3awyi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medAlqal3awyi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  
+</p>
 
+<a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
+    <img align="left"  alt="a7medAlqal3awyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a7medAlqal3awyi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
+    <img align="right" alt="a7medAlqal3awyi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medAlqal3awyi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
+
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+Long+Life+Learner">
+</h3>
 
 
 

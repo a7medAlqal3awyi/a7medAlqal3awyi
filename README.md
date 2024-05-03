@@ -29,7 +29,7 @@
 ## 💻Tech Stack &Tools:
 <div align="center">
   <a href="#">
-     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,photoshop,xd,figma,vscode,androidstudio,git&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,androidstudio,vscode,photoshop,xd,figma,git&theme=dark" />
     <img src="https://skillicons.dev/icons?i=github,postman,googlecloud,mysql,sqlite,html,css,opencv,unity,discord&theme=dark" />
   </a>
  

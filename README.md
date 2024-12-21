@@ -1,17 +1,21 @@
 <h2> Hi, I'm Ahmed Khaled AlQalawyi! 👋</h2>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ 
 <p align="center">
+  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Flutter%20developer📱;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=2F81F7&vCenter=true&size=22"></a>
 </p> 
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+<!-- 
+<img src="https://raw.githubusercontent.com/lambiengcode/lambiengcode/refs/heads/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+ -->
 <p
  
-👨‍🎓 I’m a computer sceience student at last year.
+👨‍🎓 I Graduated from the faculty of computer science.
 
-🌱 I’m currently learning **Advanced Flutter & Design Patterns.**
+📱 Flutter Developer / Freelancer.
 
-🤓 Always learning new things.
+✨ UI / UX Enthusiast.
+  
+💻 Committed to writing clean, efficient code
 
 💬 Ask me about Flutter, Dart, Firebase.
 
@@ -19,12 +23,15 @@
 
 📧 Feel free to reach me out  a7medalqalawyi@gmail.com
 
+
 📄 Documenting the entire journey.
 
 🫡 Deep Code Way.
+<!-- 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+-->
 
 ## 💻Tech Stack &Tools:
 <div align="center">
@@ -51,7 +58,7 @@
 
 ```javascript
 const ahmed = {
-  code: [Dart, Java, C++, Python , OPP, DSA],
+  code: [Dart, Java, C++, Python, OPP, DSA],
   askMeAbout: ["Flutter", "OPP", "Dart", "SOLID"],
   currentlyLearning: ["Flutter Payment", "Flutter web", ],
                       },
@@ -66,9 +73,12 @@ const ahmed = {
 
 
 
+<!-- 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+-->
+
 <br>
 
 ## 📊 GitHub Stats:
@@ -89,9 +99,11 @@ const ahmed = {
 
 
 
+<!-- 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+-->
 
 
 <h3 align="center">

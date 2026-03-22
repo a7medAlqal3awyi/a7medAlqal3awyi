@@ -127,7 +127,7 @@ class AhmedKhaled {
   <a href="mailto:a7medalqalawyi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-khaled-alkalawyi-3172a6248/">
+  <a href="https://www.linkedin.com/in/ahmedkhaledalkalawyi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/a7medAlqal3awyi">

@@ -11,35 +11,39 @@
 **Mobile Application Developer** specializing in cross-platform Flutter development with published applications on both Google Play and App Store.
 
 - 🎓 Computer Science Graduate from Beni Sueif University
-- 💼 Currently working as Flutter Developer at **[Computing Gate](https://www.computinggate.com/)**
+- 💼 Currently working as Flutter Developer at **<a href="https://www.computinggate.com/" target="_blank">Computing Gate</a>**
 - 📱 Published multiple production apps serving real users
 - 🏗️ Passionate about Clean Architecture, SOLID principles, and scalable solutions
 - 🔧 Experienced in integrating Flutter apps with Odoo ERP systems
 - 💡 Committed to writing maintainable, efficient, and well-tested code
 - 📧 Reach me at: **a7medalqalawyi@gmail.com**
-- 🌐 Portfolio: **[My Website](https://a7medalqal3awyi.github.io/a7medAlqal3awyi.githup.io/)**
+- 🌐 Portfolio: **<a href="https://a7medalqal3awyi.github.io/a7medAlqal3awyi.githup.io/" target="_blank">My Website</a>**
 
 ## 📱 Published Applications
 
 ### Recent Projects
 
 **Aaber (عابر)**
-- 📥 Available on [App Store](https://apps.apple.com/us/app/%D8%B9%D8%A7%D8%A8%D8%B1-aaber/id6758738211)
+- 📥 Available on <a href="https://apps.apple.com/us/app/%D8%B9%D8%A7%D8%A8%D8%B1-aaber/id6758738211" target="_blank">App Store</a>
 - Developed using Flutter with Clean Architecture.
 
 **Sale Goo** 🚚
-- 📥 Available on [App Store](https://apps.apple.com/eg/app/sale-goo/id6754214779)
+- 📥 Available on <a href="https://play.google.com/store/apps/details?id=com.kamahtech.salego" target="_blank">Google Play</a> & <a href="https://apps.apple.com/us/app/sale-goo/id6754214779" target="_blank">App Store</a>
 - Stock management, journey tracking, and customer returns processing.
 - Real-time driver location tracking with Google Maps integration.
 
 **Unit Finder**
-- 📥 Available on [App Store](https://apps.apple.com/us/app/unit-finder/id6754973408)
+- 📥 Available on <a href="https://play.google.com/store/apps/details?id=com.kamahtech.unitefinder" target="_blank">Google Play</a> & <a href="https://apps.apple.com/us/app/unit-finder/id6754973408" target="_blank">App Store</a>
 - Application for finding and managing units.
 
 ### KamahTech Projects
 
-**HR Management** 🏢
-- 📥 Available on [Google Play](https://play.google.com/store/apps/details?id=com.kamah.hr)
+**KamahTech App** 🏢
+- 📥 Available on <a href="https://play.google.com/store/apps/details?id=com.kamahtech.kamahtechapp" target="_blank">Google Play</a> & <a href="https://apps.apple.com/us/app/kamahtech/id6754289476" target="_blank">App Store</a>
+- Official application for KamahTech company.
+
+**HR Management (GrooHR)** 👥
+- 📥 Available on <a href="https://play.google.com/store/apps/details?id=com.kamah.hr" target="_blank">Google Play</a> & <a href="https://apps.apple.com/us/app/groohr/id6753343169" target="_blank">App Store</a>
 - Comprehensive HR management with leave requests, loan tracking, and payslip access.
 - Features: User authentication, role-based access control, real-time updates.
 
@@ -73,13 +77,13 @@
 ## 🏆 Featured Projects
 
 ### NeuraDerm - AI Medical App 🧠
-*Graduation Project* | [Code](https://github.com/abdallah116294/Skin-Cancer-Project)
+*Graduation Project* | <a href="https://github.com/abdallah116294/Skin-Cancer-Project" target="_blank">Code</a>
 - AI-powered skin condition diagnosis using Flutter
 - Secure patient profile and medical history system
 - Data encryption and privacy protocols implementation
 
 ### Gemini Clone - AI Chat Application 💬
-[Code](https://github.com/a7medAlqal3awyi/Gemini-clone)
+<a href="https://github.com/a7medAlqal3awyi/Gemini-clone" target="_blank">Code</a>
 - Built with Flutter and Google Generative AI API
 - Interactive content generation with markdown rendering
 - Advanced state management and AI integration
@@ -95,18 +99,18 @@
 - Multi-provider architecture with cached image loading
 
 ### My Portfolio Website 🌐
-[Live Demo](https://a7medalqal3awyi.github.io/a7medAlqal3awyi.githup.io/)
+<a href="https://a7medalqal3awyi.github.io/a7medAlqal3awyi.githup.io/" target="_blank">Live Demo</a>
 - Responsive portfolio built with Flutter Web
 - Deployed on GitHub Pages
 - Cross-platform responsive design with custom animations
 
 ## 📜 Certifications
 
-- 🎓 [Flutter Clean Architecture](https://www.udemy.com/certificate/UC-02ad462a-507e-4e82-9172-fa8c480589ed/)
-- 🎓 [Flutter & Dart Development](https://www.udemy.com/certificate/UC-996c6435-9c72-496d-8b30-d058812c4e26/)
-- 📋 [Fundamentals of Agile Project Management](https://www.credly.com/badges/db13905c-33fc-4eed-8cef-c8b598de2c4f)
-- 📋 [Fundamentals of Project Management](https://www.credly.com/badges/66e3b1f6-3904-4516-a0b8-43f2326f7064)
-- 💼 [Almdrasa Certificate](https://almdrasa.com/certificate-verification/733D7853AB-733D68C5A2-1275F4EF3/)
+- 🎓 <a href="https://www.udemy.com/certificate/UC-02ad462a-507e-4e82-9172-fa8c480589ed/" target="_blank">Flutter Clean Architecture</a>
+- 🎓 <a href="https://www.udemy.com/certificate/UC-996c6435-9c72-496d-8b30-d058812c4e26/" target="_blank">Flutter & Dart Development</a>
+- 📋 <a href="https://www.credly.com/badges/db13905c-33fc-4eed-8cef-c8b598de2c4f" target="_blank">Fundamentals of Agile Project Management</a>
+- 📋 <a href="https://www.credly.com/badges/66e3b1f6-3904-4516-a0b8-43f2326f7064" target="_blank">Fundamentals of Project Management</a>
+- 💼 <a href="https://almdrasa.com/certificate-verification/733D7853AB-733D68C5A2-1275F4EF3/" target="_blank">Almdrasa Certificate</a>
 - 💼 Build Professional LinkedIn Profile
 
 ## 🔥 Current Focus
@@ -131,7 +135,7 @@ class AhmedKhaled {
     "CI/CD pipelines"
   ];
 }
-```
+``` 
 
 ## 💌 Connect With Me
 
@@ -139,16 +143,16 @@ class AhmedKhaled {
   <a href="mailto:a7medalqalawyi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmedkhaledalkalawyi/">
+  <a href="https://www.linkedin.com/in/ahmedkhaledalkalawyi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/a7medAlqal3awyi">
+  <a href="https://github.com/a7medAlqal3awyi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/a7med_khaled_alqalawyi">
+  <a href="https://t.me/a7med_khaled_alqalawyi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/alkalawyi">
+  <a href="https://twitter.com/alkalawyi" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
